@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sodium-inverter-387205",
+  "private_key_id": "825f5a6d794632aa039e43056bab3b375b683c05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJ1TfFvkjrvlFu\np7yrF8ZSDJcdDY4ihERTomvPoK98JHdn4uxxMcpvXrgcr+h9No02rfypfj4pZV9w\n+GtgII1iIuB2/PtmIf7G02xn/xTsJM0K9mF0xQUB+8T3tm/HWnu210ZqfYLqLRve\nV5H4MrNAOgr2hP10DYqWgbh+/++nfw1UI10QzQn6yDmESDvLh4/iqo7brQ9aVC8l\nUAhjnOAvypO+6kEDzrSgKTA+AJfAGjY8RMvDZpmEaQNJuIKLBM3BIuG0qpA1+nVF\nNi8M8N7ihqmj2fmJ+Exs7n1lkappm9n03MIa6wwibFJ1LPTKZ+89MD7M4QZmhVYB\nyQk1pvuFAgMBAAECggEAH43sKEg1klWw2YHz5zPSV6WMQoiJ/i97ly+/dziB9wCk\ngmNh39iO85Z1ZlbCHEFZFoFhDQalpUcqArlz4BV2xS76tN+cVj1eXatUOXYRyVF/\nlQUr+1uKCuNXyfqFwz8MNGu3oJJ60y22O66pLYqPp6zrZdso3On5Dsq9E23kA+V8\nFp9TBB3iGaZRtdwAiSki8ZTJ8LMecW9fRCUjunKx1vg8h2voZf9VnOpLnrAUhobO\n9AiLYCNmTxChUimEHToL7t9n/a7v6Ac1NUl+v95R/hrGoFXCdptYcVdxKdTADVxX\nGLENjNPBe7vAxK70GaC61B+BloUVbEoL9HOpwOs9SQKBgQDjfKkTvJWB/ZubCEXg\nhlfq0hfpN0oZlynMz4yx8BMQ6rPk68yaU1KGDE2zZXWqZXm/i/MTKAQcx/VcYbjJ\ne+8lMu6P3yFOdrfQVXV7Xpro6gGU8qj3e1FhSuzxcTNE4MKOSmddKL2MMH9QNQiK\ndH4/xPuNrD1dCh7m0iLkcLOVHwKBgQDjIWYoQyeJAAMcAaNaMRsneGsun+mnC22G\n+cG95qkIvp2RAC2yPCjwwe7DVHpBsH4/JnZqFf5Vsoi63+7GoeUCB7Mfr69lDWL+\nklcDTN28GBUHOOb7QIcPmCPDlxNX8JQGVKe1c6tRfCn15ZotQcD/c4zY9Bk+fT6A\nad/azFJW2wKBgQCjkBE9WJ2ivkbwfE1Jty5lbzO0AoXrym1KjnxZwATlZ+t6kDQn\nTfuK2DPR5gRpRNb561UVk/MJApifGMA1Vj/HXkx683LOKLvXNmrnDkmRaBdFEgh9\nEJSdwLKGkt7LClO43TRenhlTP9d6QvdmHYZcsXQxFAN27vzy92oRGBt2/wKBgDFC\n3ytAVWTLUeFTIaDAIcmPvn9gQ4btXZX2uWR8kJDK9tWqGj8b+S0ugqBuxA1XQCpm\nJyyfFIh1rl4Jj3oZRtgH33ux2PKr0pqwFpsqorTW7EiiuMYpmqFxN+CF9bYPAavV\n1IHwUmnb6iXg5G2IY1mEMDolxwvckh+71sdXpUwdAoGBAMLXFpljje4Rs4LmFt7v\nHWiT7rzMzuQzP9NMAqYgN0L+VoWhlZGDJ/9kPWUvUbx0yyrwgVOYi3jZJhR6Xwk8\nwH6WLyvd2nD7wLvTzyrFKpxLgecN20nlVtJM67loJBIFFs7NBWGyBefmJM06M64O\nn4aYs4t69+PUgdR07vDaolZL\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-projeck-py@sodium-inverter-387205.iam.gserviceaccount.com",
+  "client_id": "112016726221382311935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-projeck-py%40sodium-inverter-387205.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
