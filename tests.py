@@ -18,7 +18,6 @@ from aiogram.utils.exceptions import BotBlocked, BadRequest, MessageTextIsEmpty
 # from config import *
 import os
 
-from gspread import Client, Spreadsheet, Worksheet
 
 from dotenv import load_dotenv, find_dotenv
 
